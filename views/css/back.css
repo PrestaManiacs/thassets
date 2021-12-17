@@ -1,0 +1,32 @@
+/**
+* 2006-2021 THECON SRL
+*
+* NOTICE OF LICENSE
+*
+* DISCLAIMER
+*
+* YOU ARE NOT ALLOWED TO REDISTRIBUTE OR RESELL THIS FILE OR ANY OTHER FILE
+* USED BY THIS MODULE.
+*
+*  @author    THECON SRL <contact@thecon.ro>
+*  @copyright 2006-2021 THECON SRL
+*  @license   Commercial
+*/
+
+.custom-html-title {
+    height: 30px;
+    background-color: #363A41;
+    color: #fff;
+    font-size: 16px;
+    line-height: 30px;
+    padding-left: 20px;
+}
+
+.custom-html-sub-title {
+    height: 30px;
+    background-color: #5e6063;
+    color: #fff;
+    font-size: 16px;
+    line-height: 30px;
+    padding-left: 20px;
+}
